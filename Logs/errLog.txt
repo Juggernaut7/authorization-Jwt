@@ -1,0 +1,50 @@
+2025-05-22		12:08:59	dd7e5424-2676-4500-a2da-8d0790e48a7d	Error: not allowed by cors
+2025-05-22		14:45:59	633cb83b-8c6d-465e-aba6-b1897f0a9627	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:47:36	517a3088-45d8-45fd-8c1b-e2a92404b365	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:48:03	22adf96c-c3ef-4fca-bcc5-129bbe7016ea	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:48:06	846c85f8-5ad9-406c-824a-8f51833b70a2	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:49:36	78d0ac95-2169-4463-a5cd-45a18610884f	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\index.html'
+2025-05-22		14:52:37	b6b05c78-1ded-4a64-a7c9-c638334e5db9	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\index.html'
+2025-05-22		14:53:29	3d9421a9-e0df-4b5b-8f50-03b8dcc2d9ed	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:53:35	87a4ae39-7c67-411a-8c76-4d6b39f99612	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:54:28	bd7bdf15-3d1b-4b04-8c94-d5feb5ee72b6	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\index.html'
+2025-05-22		14:54:40	ccfc0db5-007f-4b1f-b8f2-52a4c0cf8c92	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:55:00	549f6cc6-4547-463c-b164-54f87d818d9c	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:57:39	ca192727-c523-49bc-bd25-0e7f19f450a8	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:57:40	2092d1bd-ae11-4cdf-ba0f-11ddf965f074	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:58:29	96642e60-453d-484a-98b1-544b53d92a8a	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:58:45	ca67e4b2-05a4-4bec-b7db-fe6f39b544b2	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:59:25	f40cee2f-db6f-4bb2-9615-c188bd3bd1f8	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		14:59:25	a36cb2b9-90ed-4892-8fba-15c19d8e10c9	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		15:14:27	2813e4a5-8fb8-4d73-aafc-81b5c2f0c261	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		15:17:12	407ec9a8-8340-4f27-ba0a-d356cb31ecf7	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-22		15:18:12	7c2ae1a3-9eff-43a8-80db-e2b00b8f7bda	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\back-end-classes\Routing\subdir\test.html'
+2025-05-26		11:37:05	50d8510f-d993-44ab-9f65-8ec7498a6b7b	TypeError: Cannot read properties of undefined (reading 'id')
+2025-05-26		11:41:06	34115c36-4152-47a9-b7c1-7bc363d03b2d	TypeError: data.employees.find is not a function
+2025-05-26		11:41:35	77df4659-be50-4dc6-b134-35d15e35e047	TypeError: data.employees.find is not a function
+2025-05-26		11:42:19	27e3eafa-4be8-46ac-85f6-56a3c7ffe3a8	TypeError: data.employees.find is not a function
+2025-05-26		11:42:43	d2aed25a-fa48-41ba-b0e7-c3d50182a1f4	TypeError: data.employees.find is not a function
+2025-05-26		11:42:48	c7e10630-f2b6-46b6-b879-677bc61ee286	TypeError: data.employees.find is not a function
+2025-05-26		11:43:14	174ae72a-3f2a-4aad-ab3c-86fcffb97bc4	TypeError: data.employees.find is not a function
+2025-05-26		11:45:32	cde3147a-ccaf-47fd-8d39-59c66cb44473	TypeError: data.employees.find is not a function
+2025-05-26		11:45:40	a6013b33-f4f5-465b-8ec6-9c88ecdf7b14	TypeError: data.employees.find is not a function
+2025-05-26		11:46:09	9b6e24a3-da5d-431a-80a5-a147a61450c8	TypeError: data.employees.find is not a function
+2025-05-26		11:46:43	3928ad87-a111-40ed-a5d9-8cd971ea35d3	TypeError: data.employees.find is not a function
+2025-05-26		11:48:41	c81c0df8-a27c-4628-83f3-7ac045720520	TypeError: data.employees.find is not a function
+2025-05-26		11:54:31	f424e973-ff93-4259-885c-80ea047a7f69	TypeError: data.employees.find is not a function
+2025-05-26		11:56:45	a9b78594-2a57-4765-ad49-91dff20967e4	TypeError: data.employees.find is not a function
+2025-05-26		11:57:45	4990728c-8d7f-4faf-b419-4d223f3fa38f	TypeError: data.employees.find is not a function
+2025-05-26		12:22:56	0b04f243-f1b3-4c28-8528-101757492351	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-05-26		12:24:49	65607c4c-e3df-4a14-874e-48b736634cf5	TypeError: Cannot read properties of undefined (reading 'id')
+2025-05-26		12:25:03	9a1c68de-39a8-4568-82e3-3cc30ca378de	TypeError: Cannot read properties of undefined (reading 'id')
+2025-05-26		15:13:14	77a5b013-4765-492a-921d-aef6306f2c9f	ReferenceError: username is not defined
+2025-05-26		15:15:08	2107afcf-b0fb-4ff3-9371-0196b6493494	ReferenceError: username is not defined
+2025-05-27		11:21:44	c405d3c8-54a3-4ce7-83ee-97dbe440f35a	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-05-27		11:21:47	5b8370a8-a31b-4260-ac39-92ba4217c97e	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-05-27		11:22:09	f17e1d05-a228-4a09-a99c-a866d7c12049	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-05-27		11:23:58	7ae15351-128d-4754-a141-1bf88393f698	ReferenceError: decoded is not defined
+2025-05-27		11:24:44	028ea1cf-d001-4565-95c6-75bbce1a08ba	ReferenceError: decoded is not defined
+2025-05-27		14:26:39	4ab4e45f-ce66-471f-ab40-b1c83e951e0c	ReferenceError: fsPromises is not defined
+2025-05-27		16:27:25	6c6a8de9-54b1-48c8-8c31-7c4c8fa8b966	TypeError: Cannot read properties of undefined (reading 'roles')
+2025-05-27		16:29:26	9f18952a-a759-43a1-ae8b-da1240ddfb6d	ReferenceError: role is not defined
+2025-05-27		16:32:50	f266a344-08f4-4ac8-a9cd-ead9a463c8a9	ReferenceError: role is not defined

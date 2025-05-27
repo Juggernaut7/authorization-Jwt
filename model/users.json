@@ -1,0 +1,29 @@
+[
+  {
+    "username": "ade",
+    "roles": {
+      "User": 2001
+    },
+    "password": "$2b$10$q6m8ec37wd55sA8RXp/J0uIgviMSfopCWy5Ev2xl79AGb3QD59XbW",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkZSIsImlhdCI6MTc0ODM1NzI1OCwiZXhwIjoxNzQ4NDQzNjU4fQ.fAsZwdSXOSU1yaISLtqsq5RJxzkBudc8zsnd_hvf_M8"
+  },
+  {
+    "username": "musa",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984
+    },
+    "password": "$2b$10$8v0WeVfwfoCpzVmd2qaO2.BfuX1l/90Dl585Lfg7boG7hhPcSIHJi",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im11c2EiLCJpYXQiOjE3NDgzNTczMjgsImV4cCI6MTc0ODQ0MzcyOH0.3Mmi6_Uy8DQ4j8Dp3AIf3KXn3z8NKrMHLXx9i0dqD6c"
+  },
+  {
+    "username": "canad",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984,
+      "Admin": 5150
+    },
+    "password": "$2b$10$H4Hi53qRS1EpDNg40mJIa.mfWm5whRgXAA1cuwMAz19N2Frv1bfqa",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNhbmFkIiwiaWF0IjoxNzQ4Mzc4NzI4LCJleHAiOjE3NDg0NjUxMjh9.uGswrPLHscLPyHfqm2ypgH3v5fkUzn2paO0acOF7fGc"
+  }
+]
